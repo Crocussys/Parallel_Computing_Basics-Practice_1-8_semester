@@ -1,0 +1,4 @@
+*.o
+run
+.qmake.stash
+.qtc_clangd*
